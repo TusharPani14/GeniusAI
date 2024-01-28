@@ -9,6 +9,7 @@ Welcome to GeniusAI, an advanced AI tool packed with powerful features for a sea
 - **Video Generation Tool:** Utilize Replicate AI for video generation.
 - **Conversation Generation Tool:** Engage users with dynamic conversations using Open AI.
 - **Music Generation Tool:** Add a musical touch with Replicate AI's music generation.
+- **Chatbot using Crisp:** Enhance user interactions with a chatbot powered by Crisp.
 - **Stripe Monthly Subscription:** Implement a secure subscription model using Stripe.
 - **Free Tier with API Limiting:** Offer a free tier with limited API access.
 
