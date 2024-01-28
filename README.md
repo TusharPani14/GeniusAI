@@ -1,6 +1,8 @@
-# GeniusAI - AI Tool
+# **GeniusAI - AI Tool**
 
 Welcome to GeniusAI, an advanced AI tool packed with powerful features for a seamless user experience.
+
+![Screenshot (570)](https://github.com/TusharPani14/GeniusAI/assets/97904669/1ce969c1-d5cc-48e8-9691-582747fa0ddc)
 
 ## Features
 
