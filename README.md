@@ -22,7 +22,7 @@ Follow these steps to set up and run the GeniusAI project on your local machine.
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/TusharPani14/GeniusAI.git
-    cd GeniusAI
+    cd geniusai
     ```
 
 2. **Install Dependencies:**
