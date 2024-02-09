@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  node_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    env_file:
+      - .env
+
+  mysql_db:
+    image: mysql:latest
+    env_file:
+      - .env
+    ports:
+      - "3306:3306"
